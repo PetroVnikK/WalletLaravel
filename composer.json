@@ -1,3 +1,5 @@
 {
   "name": "bavix/laravel-wallet",
   "description": "Easy work with virtual wallet.",
+  "keywords": [
+    "laravel",
