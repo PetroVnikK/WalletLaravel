@@ -8,3 +8,5 @@
     "currency",
     "laravel-wallet",
     "laravel-package",
+ "virtual",
+    "wallet",
