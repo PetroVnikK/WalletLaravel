@@ -12,3 +12,4 @@
     "wallet",
     "payments"
   ],
+  "minimum-stability": "stable",
