@@ -26,3 +26,4 @@
     "ext-json": "*",
     "ext-pdo": "*",
     "brick/math": "~0.10",
+    "doctrine/dbal": "^3.5",
