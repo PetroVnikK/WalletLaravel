@@ -27,3 +27,5 @@
     "ext-pdo": "*",
     "brick/math": "~0.10",
     "doctrine/dbal": "^3.5",
+    "illuminate/contracts": "^10.0",
+    "illuminate/database": "^10.0",
