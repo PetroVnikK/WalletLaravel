@@ -35,3 +35,5 @@
     "brianium/paratest": "^7.2",
     "cknow/laravel-money": "^7.1",
     "driftingly/rector-laravel": "^0.21",
+    "ergebnis/phpstan-rules": "^1.0",
+    "infection/infection": "~0.27",
