@@ -37,3 +37,6 @@
     "driftingly/rector-laravel": "^0.21",
     "ergebnis/phpstan-rules": "^1.0",
     "infection/infection": "~0.27",
+    "laravel/cashier": "^14.12",
+    "nunomaduro/collision": "^7.7",
+    "nunomaduro/larastan": "^2.6",
