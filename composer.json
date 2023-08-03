@@ -40,3 +40,5 @@
     "laravel/cashier": "^14.12",
     "nunomaduro/collision": "^7.7",
     "nunomaduro/larastan": "^2.6",
+    "orchestra/testbench": "^8.5",
+    "phpstan/phpstan": "^1.10",
