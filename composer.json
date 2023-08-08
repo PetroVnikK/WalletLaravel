@@ -52,3 +52,6 @@
   },
   "autoload": {
     "psr-4": {
+      "Bavix\\Wallet\\": "src/"
+    }
+  },
