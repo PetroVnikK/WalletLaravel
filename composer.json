@@ -57,3 +57,6 @@
   },
   "autoload-dev": {
     "psr-4": {
+      "Bavix\\Wallet\\Test\\": "tests/"
+    }
+  },
