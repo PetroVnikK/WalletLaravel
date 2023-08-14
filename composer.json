@@ -60,3 +60,6 @@
       "Bavix\\Wallet\\Test\\": "tests/"
     }
   },
+  "scripts": {
+    "docs": "@php -S localhost:3000 -t ./docs",
+    "unit":"@php vendor/bin/phpunit --coverage-xml=build/coverage-xml --log-junit=build/junit.xml",
