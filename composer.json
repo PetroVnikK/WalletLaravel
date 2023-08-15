@@ -63,3 +63,5 @@
   "scripts": {
     "docs": "@php -S localhost:3000 -t ./docs",
     "unit":"@php vendor/bin/phpunit --coverage-xml=build/coverage-xml --log-junit=build/junit.xml",
+    "paraunit":"@php vendor/bin/paratest --coverage-xml=build/coverage-xml --log-junit=build/junit.xml",
+    "parabench":"@php ./vendor/bin/testbench package:test --coverage-xml=build/coverage-xml --log-junit=build/junit.xml",
