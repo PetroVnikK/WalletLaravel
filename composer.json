@@ -69,3 +69,4 @@
     "phpstan": ["@phpstan-src", "@phpstan-tests"],
     "phpstan-src": "@php vendor/bin/phpstan analyse -vvv --memory-limit 2G -c phpstan.src.neon",
     "phpstan-tests": "@php vendor/bin/phpstan analyse -vvv --memory-limit 2G -c phpstan.tests.neon",
+    "phpstan-baseline": ["@phpstan-baseline-src", "@phpstan-baseline-tests"],
