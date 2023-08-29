@@ -72,3 +72,4 @@
     "phpstan-baseline": ["@phpstan-baseline-src", "@phpstan-baseline-tests"],
     "phpstan-baseline-src": "@php vendor/bin/phpstan analyse -vvv --memory-limit 2G -c phpstan.src.neon --generate-baseline phpstan.src.baseline.neon",
     "phpstan-baseline-tests": "@php vendor/bin/phpstan analyse -vvv --memory-limit 2G -c phpstan.tests.neon --generate-baseline phpstan.tests.baseline.neon",
+    "ecs": "@php vendor/bin/ecs check",
