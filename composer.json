@@ -74,3 +74,4 @@
     "phpstan-baseline-tests": "@php vendor/bin/phpstan analyse -vvv --memory-limit 2G -c phpstan.tests.neon --generate-baseline phpstan.tests.baseline.neon",
     "ecs": "@php vendor/bin/ecs check",
     "ecs-fix": "@php vendor/bin/ecs check --fix",
+    "ecs-cc": "@php vendor/bin/ecs --clear-cache",
