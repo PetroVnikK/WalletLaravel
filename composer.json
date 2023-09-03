@@ -78,3 +78,5 @@
     "rector": "@php vendor/bin/rector process --dry-run",
     "rector-fix": "@php vendor/bin/rector process"
   },
+  "extra": {
+    "laravel": {
