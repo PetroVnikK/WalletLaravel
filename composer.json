@@ -81,3 +81,5 @@
   "extra": {
     "laravel": {
       "providers": [
+        "Bavix\\Wallet\\WalletServiceProvider"
+      ]
