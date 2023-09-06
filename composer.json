@@ -83,3 +83,6 @@
       "providers": [
         "Bavix\\Wallet\\WalletServiceProvider"
       ]
+    }
+  },
+  "config": {
