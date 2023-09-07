@@ -86,3 +86,4 @@
     }
   },
   "config": {
+    "process-timeout":0,
