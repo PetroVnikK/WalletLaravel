@@ -3,3 +3,5 @@ parameters:
     - ./src
 
   layers:
+    - name: Legacy
+      collectors:
