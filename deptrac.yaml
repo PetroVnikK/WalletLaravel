@@ -5,3 +5,7 @@ parameters:
   layers:
     - name: Legacy
       collectors:
+        - type: className
+          regex: ^Bavix\\.*\\Objects\\Cart$
+
+    - name: Contract
