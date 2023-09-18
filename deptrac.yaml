@@ -9,3 +9,5 @@ parameters:
           regex: ^Bavix\\.*\\Objects\\Cart$
 
     - name: Contract
+      collectors:
+        - type: className
