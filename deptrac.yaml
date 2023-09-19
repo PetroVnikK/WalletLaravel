@@ -11,3 +11,6 @@ parameters:
     - name: Contract
       collectors:
         - type: className
+          regex: ^Bavix\\.*\\Objects\\Cart$
+
+    - name: Contract
