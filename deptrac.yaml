@@ -16,3 +16,5 @@ parameters:
     - name: Contract
       collectors:
         - type: className
+          regex: ^Bavix\\Wallet\\Interfaces\\.*
+        - type: className
