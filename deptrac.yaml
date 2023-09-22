@@ -18,3 +18,4 @@ parameters:
         - type: className
           regex: ^Bavix\\Wallet\\Interfaces\\.*
         - type: className
+          regex: ^Bavix\\Wallet\\External\\Contracts\\.*
