@@ -19,3 +19,6 @@ parameters:
           regex: ^Bavix\\Wallet\\Interfaces\\.*
         - type: className
           regex: ^Bavix\\Wallet\\External\\Contracts\\.*
+          regex: ^Bavix\\Wallet\\External\\Dto\\.*
+
+    - name: Api
