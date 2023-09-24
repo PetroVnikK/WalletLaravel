@@ -22,3 +22,5 @@ parameters:
           regex: ^Bavix\\Wallet\\External\\Dto\\.*
 
     - name: Api
+      collectors:
+        - type: className
