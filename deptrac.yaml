@@ -27,3 +27,5 @@ parameters:
           regex: ^Bavix\\Wallet\\External\\Api\\.*Interface$
 
     - name: ApiQuery
+      collectors:
+        - type: className
