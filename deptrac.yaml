@@ -30,3 +30,6 @@ parameters:
       collectors:
         - type: className
           regex: ^Bavix\\Wallet\\External\\Api\\.*Query$
+
+    - name: ApiHandler
+      collectors:
