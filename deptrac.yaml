@@ -35,3 +35,6 @@ parameters:
       collectors:
         - type: className
           regex: ^Bavix\\Wallet\\External\\Api\\.*Handler$
+
+    - name: UI
+      collectors:
