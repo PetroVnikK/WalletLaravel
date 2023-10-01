@@ -38,3 +38,5 @@ parameters:
 
     - name: UI
       collectors:
+        - type: className
+          regex: ^Bavix\\.*\\Traits\\.*
