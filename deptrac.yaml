@@ -42,3 +42,5 @@ parameters:
           regex: ^Bavix\\.*\\Traits\\.*
 
     - name: UIException
+      collectors:
+        - type: className
