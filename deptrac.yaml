@@ -44,3 +44,4 @@ parameters:
     - name: UIException
       collectors:
         - type: className
+          regex: ^Illuminate\\Database\\Eloquent\\ModelNotFoundException$
