@@ -45,3 +45,7 @@ parameters:
       collectors:
         - type: className
           regex: ^Illuminate\\Database\\Eloquent\\ModelNotFoundException$
+        - type: className
+          regex: ^Bavix\\Wallet\\Exceptions\\.*
+
+    # internal
