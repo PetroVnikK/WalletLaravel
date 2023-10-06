@@ -49,3 +49,5 @@ parameters:
           regex: ^Bavix\\Wallet\\Exceptions\\.*
 
     # internal
+    - name: InternalException
+      collectors:
