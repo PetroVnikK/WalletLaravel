@@ -51,3 +51,4 @@ parameters:
     # internal
     - name: InternalException
       collectors:
+        - type: className
