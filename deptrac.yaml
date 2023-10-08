@@ -52,3 +52,4 @@ parameters:
     - name: InternalException
       collectors:
         - type: className
+          regex: ^Bavix\\.*\\Internal\\Exceptions\\.*
