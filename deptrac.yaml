@@ -56,3 +56,5 @@ parameters:
 
     - name: InternalListener
       collectors:
+        - type: className
+          regex: ^Bavix\\.*\\Internal\\Listeners\\.*
