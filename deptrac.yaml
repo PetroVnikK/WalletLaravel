@@ -60,3 +60,5 @@ parameters:
           regex: ^Bavix\\.*\\Internal\\Listeners\\.*
 
     - name: Event
+      collectors:
+        - type: className
