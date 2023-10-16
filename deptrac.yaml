@@ -65,3 +65,5 @@ parameters:
           regex: ^Bavix\\.*\\Internal\\Events\\.*Event$
 
     - name: EventInterface
+      collectors:
+        - type: className
