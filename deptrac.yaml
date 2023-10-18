@@ -68,3 +68,5 @@ parameters:
       collectors:
         - type: className
           regex: ^Bavix\\.*\\Internal\\Events\\.*EventInterface$
+
+    - name: Dto
