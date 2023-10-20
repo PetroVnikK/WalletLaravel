@@ -72,3 +72,4 @@ parameters:
     - name: Dto
       collectors:
         - type: className
+          regex: ^Bavix\\.*\\Internal\\Dto\\.*Dto$
