@@ -75,3 +75,5 @@ parameters:
           regex: ^Bavix\\.*\\Internal\\Dto\\.*Dto$
 
     - name: DtoInterface
+      collectors:
+        - type: className
