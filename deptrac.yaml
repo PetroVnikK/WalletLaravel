@@ -77,3 +77,6 @@ parameters:
     - name: DtoInterface
       collectors:
         - type: className
+          regex: ^Bavix\\.*\\Internal\\Dto\\.*DtoInterface$
+
+    - name: AssemblerDto
