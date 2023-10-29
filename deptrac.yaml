@@ -90,3 +90,5 @@ parameters:
           regex: ^Bavix\\.*\\Internal\\Assembler\\.*DtoAssemblerInterface$
 
     - name: QueryInterface
+      collectors:
+        - type: className
