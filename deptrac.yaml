@@ -92,3 +92,6 @@ parameters:
     - name: QueryInterface
       collectors:
         - type: className
+          regex: ^Bavix\\.*Internal\\Query\\.*QueryInterface$
+
+    - name: Query
