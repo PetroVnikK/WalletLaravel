@@ -100,3 +100,5 @@ parameters:
           regex: ^Bavix\\.*Internal\\Query\\.*Query$
 
     - name: RepositoryInterface
+      collectors:
+        - type: className
