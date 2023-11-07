@@ -110,3 +110,5 @@ parameters:
           regex: ^Bavix\\.*Internal\\Repository\\.*Repository$
 
     - name: Transform
+      collectors:
+        - type: className
