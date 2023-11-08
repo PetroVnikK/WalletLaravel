@@ -112,3 +112,6 @@ parameters:
     - name: Transform
       collectors:
         - type: className
+          regex: ^Bavix\\.*Internal\\Transform\\.*DtoTransformer$
+
+    - name: TransformInterface
