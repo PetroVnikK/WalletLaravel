@@ -117,3 +117,8 @@ parameters:
     - name: TransformInterface
       collectors:
         - type: className
+          regex: ^Bavix\\.*Internal\\Transform\\.*DtoTransformerInterface$
+
+    - name: Infra
+      collectors:
+        - type: className
