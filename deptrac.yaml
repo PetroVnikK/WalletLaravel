@@ -122,3 +122,6 @@ parameters:
     - name: Infra
       collectors:
         - type: className
+          regex: ^Bavix\\.*Internal\\Service\\.*Service$
+
+    - name: ServiceDecorator
