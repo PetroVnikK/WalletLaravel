@@ -125,3 +125,6 @@ parameters:
           regex: ^Bavix\\.*Internal\\Service\\.*Service$
 
     - name: ServiceDecorator
+      collectors:
+        - type: className
+          regex: ^Bavix\\.*Decorator\\.*Decorator
