@@ -128,3 +128,8 @@ parameters:
       collectors:
         - type: className
           regex: ^Bavix\\.*Decorator\\.*Decorator
+
+    # contracts
+    - name: Model
+      collectors:
+        - type: className
