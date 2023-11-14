@@ -133,3 +133,5 @@ parameters:
     - name: Model
       collectors:
         - type: className
+          regex: ^Bavix\\.*Models\\Transaction$
+        - type: className
