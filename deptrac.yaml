@@ -135,3 +135,5 @@ parameters:
         - type: className
           regex: ^Bavix\\.*Models\\Transaction$
         - type: className
+          regex: ^Bavix\\.*Models\\Transfer$
+        - type: className
