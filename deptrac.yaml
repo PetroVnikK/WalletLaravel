@@ -137,3 +137,6 @@ parameters:
         - type: className
           regex: ^Bavix\\.*Models\\Transfer$
         - type: className
+          regex: ^Bavix\\.*Models\\Wallet$
+
+    - name: Service
