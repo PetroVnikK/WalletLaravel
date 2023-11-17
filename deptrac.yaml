@@ -140,3 +140,5 @@ parameters:
           regex: ^Bavix\\.*Models\\Wallet$
 
     - name: Service
+      collectors:
+        - type: className
