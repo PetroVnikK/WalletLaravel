@@ -146,3 +146,5 @@ parameters:
 
     - name: ServiceInterface
       collectors:
+        - type: className
+          regex: ^Bavix\\.*Service\\.*ServiceInterface$
