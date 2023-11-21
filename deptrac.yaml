@@ -148,3 +148,5 @@ parameters:
       collectors:
         - type: className
           regex: ^Bavix\\.*Service\\.*ServiceInterface$
+        - type: className
+          regex: ^Bavix\\.*Services\\.*ServiceInterface$
