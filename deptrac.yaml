@@ -150,3 +150,6 @@ parameters:
           regex: ^Bavix\\.*Service\\.*ServiceInterface$
         - type: className
           regex: ^Bavix\\.*Services\\.*ServiceInterface$
+
+    # framework
+    - name: EloquentModel
