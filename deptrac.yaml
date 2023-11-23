@@ -153,3 +153,6 @@ parameters:
 
     # framework
     - name: EloquentModel
+      collectors:
+        - type: className
+          regex: ^Illuminate\\Database\\Eloquent\\Model$
