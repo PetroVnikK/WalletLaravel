@@ -156,3 +156,5 @@ parameters:
       collectors:
         - type: className
           regex: ^Illuminate\\Database\\Eloquent\\Model$
+
+    - name: Config
