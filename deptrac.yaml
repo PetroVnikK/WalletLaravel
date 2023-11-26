@@ -160,3 +160,6 @@ parameters:
     - name: Config
       collectors:
         - type: className
+          regex: ^Illuminate\\Config\\Repository$
+
+    - name: Cache
