@@ -166,3 +166,5 @@ parameters:
       collectors:
         - type: className
           regex: ^Illuminate\\Contracts\\Cache\\Repository$
+
+  ruleset:
