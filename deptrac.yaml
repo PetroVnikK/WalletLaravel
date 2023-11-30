@@ -168,3 +168,5 @@ parameters:
           regex: ^Illuminate\\Contracts\\Cache\\Repository$
 
   ruleset:
+    Contract:
+      - InternalException
