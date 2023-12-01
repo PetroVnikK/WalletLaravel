@@ -170,3 +170,5 @@ parameters:
   ruleset:
     Contract:
       - InternalException
+      - DtoInterface
+      - UIException
