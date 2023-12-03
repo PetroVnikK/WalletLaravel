@@ -175,3 +175,5 @@ parameters:
       - Model
 
     ApiQuery:
+      - Model
+      - Contract
