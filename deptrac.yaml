@@ -180,3 +180,4 @@ parameters:
 
     Api:
       - Model
+      - ApiQuery
