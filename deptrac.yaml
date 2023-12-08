@@ -181,3 +181,4 @@ parameters:
     Api:
       - Model
       - ApiQuery
+      - InternalException
